@@ -7,6 +7,6 @@
 
 ### 1. Data analysing:
 
-    - Using functions of pandas, like **.info(), .duplicated().sum()**  got an overview of do data has any null or duplicate values? 
-    - Also using the same function got idea of columns that all of them are int64 except the clock_speed & m_dep they are float64.
-    - Using .corr() got the correlation idea as follow
+  - Using functions of pandas, like **.info(), .duplicated().sum()**  got an overview of do data has any null or duplicate values? 
+  - Also using the same function got idea of columns that all of them are int64 except the clock_speed & m_dep they are float64.
+  - Using **.corr()** got the correlation idea as follow
